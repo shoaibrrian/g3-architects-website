@@ -52,6 +52,11 @@ main > section{
     color: #FF900E;
 }
 
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* header styles */
 
 
@@ -118,10 +123,7 @@ main > section{
     max-width: 530px;
 }
 
-.feature-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-}
+
 
 .feature-description{
     margin-top: 30px;
